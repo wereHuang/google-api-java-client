@@ -1,3 +1,4 @@
+#bug test
 language: java
 notifications:
   email: false
